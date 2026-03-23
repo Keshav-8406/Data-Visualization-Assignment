@@ -1,4 +1,4 @@
-# 📊 Visualizing Sales and Distribution Data Using Matplotlib and Seaborn
+# 📊 Visualizing Sales and Distribution Data   Using Matplotlib and Seaborn
 
 
 ## 📌 Project Overview
@@ -93,4 +93,5 @@ It improved my ability to analyze trends and present data in a simple and effect
 ## 👤 Submitted By
 
 Keshav Kaushik
+
 B.Sc Computer Science (2nd Year)
