@@ -1,9 +1,10 @@
-# 📊 Visualizing Sales and Distribution Data   Using Matplotlib and Seaborn
+# 📊 Visualizing Sales &Distribution Data Using Matplotlib & Seaborn
 
 
 ## 📌 Project Overview
 
 This project focuses on creating clear and meaningful visualizations using **Matplotlib** and **Seaborn** 📈.
+
 Instead of presenting raw data, the goal is to display insights in a visual format so that trends and patterns are easier to understand.
 
 ---
@@ -26,7 +27,8 @@ A **line plot** is used to show how sales change over the months 📉📈
 * X-axis: Months
 * Y-axis: Sales
 * Markers are added to highlight each data point
-  👉 This helps in identifying overall sales trends throughout the year.
+
+* 👉 This helps in identifying overall sales trends throughout the year.
 
 ---
 
@@ -36,7 +38,8 @@ A **bar plot** is used to compare scores across different subjects 📊
 
 * Each bar represents a subject
 * Makes comparison simple and clear
-  👉 Helps quickly identify highest and lowest scoring subjects.
+
+👉 Helps quickly identify highest and lowest scoring subjects.
 
 ---
 
@@ -45,7 +48,8 @@ A **bar plot** is used to compare scores across different subjects 📊
 A **scatter plot** is used to show the relationship between study hours and exam scores 🎯
 
 * Each point represents a student
-  👉 Shows a positive trend where more study hours generally lead to higher scores.
+
+👉 Shows a positive trend where more study hours generally lead to higher scores.
 
 ---
 
@@ -54,7 +58,8 @@ A **scatter plot** is used to show the relationship between study hours and exam
 A **box plot** is used to understand the distribution of product sales 📦
 
 * Displays median, spread, and outliers
-  👉 Useful for analyzing how sales values are distributed.
+
+👉 Useful for analyzing how sales values are distributed.
 
 ---
 
@@ -79,6 +84,7 @@ A **box plot** is used to understand the distribution of product sales 📦
 ## 🚀 Conclusion
 
 This project helped me understand how to convert raw data into meaningful visual insights 📊.
+
 It improved my ability to analyze trends and present data in a simple and effective way.
 
 ---
@@ -86,12 +92,13 @@ It improved my ability to analyze trends and present data in a simple and effect
 ## 📎 Submission
 
 ✅ All plots are generated and visible in the notebook
+
 📌 The notebook runs without errors and follows all assignment guidelines
 
 ---
 
 ## 👤 Submitted By
 
-Keshav Kaushik
+* Keshav Kaushik 
 
-B.Sc Computer Science (2nd Year)
+* B.Sc Computer Science (IInd Year)
